@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Disfruta del aroma y sabor del triunfo con Café para el alma - descubre cómo el café puede ayudarte a superar tus desafíos y alcanzar el éxito en tu vida personal y profesional.">
+<title>Café para el alma: disfruta del aroma y sabor del triunfo</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f5f5f5;
+color: #333;
+margin: 0;
+padding: 0;
+}
+
+header {
+background-color: #6d4e42;
+color: #fff;
+padding: 1rem;
+text-align: center;
+}
+
+main {
+margin: 2rem;
+}
+
+h1 {
+font-size: 3rem;
+margin-bottom: 0.5rem;
+text-align: center;
+text-shadow: 2px 2px #5a4136;
+}
+
+h2 {
+font-size: 2rem;
+margin-bottom: 1rem;
+text-align: center;
+text-shadow: 2px 2px #5a4136;
+}
+
+p {
+font-size: 1.2rem;
+text-align: justify;
+}
+
+.btn {
+display: inline-block;
+background-color: #6d4e42;
+color: #fff;
+padding: 0.5rem 1rem;
+text-decoration: none;
+border-radius: 5px;
+margin: 1rem;
+transition: background-color 0.3s ease-in-out;
+}
+
+.btn:hover {
+background-color: #5a4136;
+}
+
+.btn:focus {
+outline: none;
+box-shadow: 0 0 0 3px rgba(109,78,66,0.5);
+}
+
+.section {
+margin-bottom: 2rem;
+}
+
+#quote {
+font-size: 1.5rem;
+font-style: italic;
+text-align: center;
+margin-bottom: 2rem;
+}
+
+#coffee-img {
+display: block;
+margin: 0 auto;
+width: 50%;
+}
+
+form {
+border: 1px solid #ccc;
+padding: 1rem;
+border-radius: 5px;
+margin-top: 2rem;
+}
+
+label {
+display: block;
+margin-bottom: 0.5rem;
+}
+
+input[type="text"], input[type="number"], input[type="email"], select {
+display: block;
+width: 100%;
+padding: 0.5rem;
+margin-bottom: 1rem;
+border-radius: 5px;
+border: 1px solid #ccc;
+}
+
+textarea {
+display: block;
+width: 100%;
+padding: 0.5rem;
+margin-bottom: 1rem;
+border-radius: 5px;
+border: 1px solid #ccc;
+resize: vertical;
+}
+
+input[type="submit"] {
+display: block;
+background-color: #6d4e42;
+color: #fff;
+padding: 0.5rem 1rem;
+text-decoration: none;
+border-radius: 5px;
+margin-top: 1rem;
+transition: background-color 0.3s ease-in-out;
+}
+
+input[type="submit"]:hover {
+background-color: #5a4136;
+}
+
+input[type="submit"]:focus {
+outline: none;
+box-shadow: 0 0 0 3px rgba(109,78,66,0.5);
+}
+
+nav {
+background-color: #b8a18e;
+color: #fff;
+padding: 1rem;
+}
+
+nav a {
+color: #fff;
+text-decoration: none;
+margin: 0 1rem;
+font-size: 1.2rem;
+}
+
+footer {
+background-color: #6d4e42;
+color: #fff;
+padding: 1rem;
+text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+main {
+display: flex;
+justify-content: space-between;
+}
+
+section {
+width: 48%;
+}
+
+#coffee-img {
+width: 70%;
+}
+
+nav {
+display: flex;
+justify-content: center;
+}
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Café para el alma</h1>
+</header>
+
+<nav>
+<a href="#about">Acerca de nosotros</a>
+<a href="#meditations">Meditaciones para el desarrollo personal</a>
+<a href="#testimonials">Testimonios</a>
+<a href="#contact">Contáctanos
